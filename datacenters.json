@@ -1,0 +1,14 @@
+﻿[
+    {
+        "name": "US_East",
+        "host": "8.8.8.8"
+    },
+    {
+        "name": "Europe_West",
+        "host": "1.1.1.1"
+    },
+    {
+        "name": "Asia_South",
+        "host": "8.8.4.4"
+    }
+]
